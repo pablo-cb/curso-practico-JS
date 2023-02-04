@@ -236,3 +236,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,node
+
+
+# Folders I don't want to upload
+folder1/
